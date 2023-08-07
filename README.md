@@ -20,6 +20,11 @@ I wanted to try out a different style so I followed a Domestica tutorial LINK TB
 
 Screenshots TBA
 
+### Game design plan
+To understand all stages of game developement process, I took part in a group project that aimed to prepare a sensable game concept inculding pitching phase, designing features, game pillars and initial proof of concept.
+
+https://miro.com/app/board/uXjVPKzXnNA=/?share_link_id=988331255087
+
 ### c# mini game
 
 Github repo tba
